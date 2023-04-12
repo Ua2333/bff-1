@@ -18,4 +18,10 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/Ua2333/bff-1
+git clone https://github.com/Ua2333/bff-
+
+1cd bff-1
+
+git pull
+
+python Runnu.py
