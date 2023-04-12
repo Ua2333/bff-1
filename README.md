@@ -18,9 +18,9 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/Ua2333/bff-
+git clone https://github.com/Ua2333/bff-1
 
-1cd bff-1
+cd bff-1
 
 git pull
 
