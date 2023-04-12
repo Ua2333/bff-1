@@ -1,4 +1,6 @@
-# bff-1pkg update && pkg upgrade
+# bff-1pk
+
+g update && pkg upgrade
 
 pkg install python
 
@@ -16,3 +18,4 @@ pip install rich
 
 pip install mechanize
 
+git clone 
