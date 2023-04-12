@@ -1,6 +1,6 @@
-# bff-1pk
+# bff-1
 
-g update && pkg upgrade
+pkg update && pkg upgrade
 
 pkg install python
 
