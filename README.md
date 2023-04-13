@@ -24,4 +24,4 @@ cd bff-1
 
 git pull
 
-python BrayennnFB.py
+python Run.py
